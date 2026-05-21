@@ -1,2 +1,3 @@
-.keys/
-.signatures/
+#Ignore some folders 
+keys/
+signatures/
